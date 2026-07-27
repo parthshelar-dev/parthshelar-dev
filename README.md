@@ -23,3 +23,9 @@ End-to-end fraud detection on the ULB Kaggle dataset. Compared Logistic Regressi
 
 ## 📫 Connect
 [LinkedIn](https://linkedin.com/in/parth-shelar)
+
+## 📊 GitHub Stats
+
+![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthshelar-dev&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthshelar-dev&layout=compact&theme=github_dark)
