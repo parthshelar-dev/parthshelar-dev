@@ -1,7 +1,8 @@
 # Hi, I'm Parth 👋
 
 🎓 Third-year B.Tech student in Artificial Intelligence & Data Science at KBTCOE, Nashik
-🤖 Building AI/ML projects and aiming for an AI/ML or Data Science internship.
+
+🤖 Building ML/AI projects and aiming for an AI/ML or Data Science internship.
 
 ## 🚀 Featured Projects
 
